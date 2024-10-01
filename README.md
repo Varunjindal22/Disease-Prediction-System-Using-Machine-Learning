@@ -1,1 +1,1 @@
-# Disease-Prediction-System-Using-Machine-Learning
+# Disease-Prediction-System-ML
